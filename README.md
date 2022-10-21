@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about creating a website that will show different recipes, and with that in mind, I plan to put in practice everything that I've learned so far about HTML and keep improving the website with the new knowledge that I'll get with my future studies.
