@@ -1,6 +1,14 @@
 /* headings 1 */
 h1 {
     font-family: "Brush Script MT", Garamond, serif;
-    font-size: 37px;
+    font-size: 43px;
     text-align: center;
+}
+
+/* pretty woman cooking */
+.pwc {
+    height: auto;
+    width: 430px;
+    margin: auto;
+    display: block;
 }
