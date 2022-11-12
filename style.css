@@ -18,3 +18,11 @@ h2 {
     font-family: "Brush Script MT", Garamond, serif;
     font-size: 34px;
 }
+
+/* mexican casserole */
+.mc {
+    height: auto;
+    width: 430px;
+    margin: auto;
+    display: block;
+}
