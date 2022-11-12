@@ -12,3 +12,9 @@ h1 {
     margin: auto;
     display: block;
 }
+
+/* headings 2 */
+h2 {
+    font-family: "Brush Script MT", Garamond, serif;
+    font-size: 34px;
+}
