@@ -42,3 +42,9 @@ h2 {
     margin: auto;
     display: block;
 }
+
+/* paragraphs n' lists */
+.pnl {
+    font-family: "Brush Script MT", Garamond, serif;
+    font-size: 23px;
+}
